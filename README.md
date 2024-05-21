@@ -7,7 +7,7 @@ Objective :
 The Prime Video team comprises individuals who are all obsessively focused on one mission: to give consumers the world's best-in-class digital video customer experience. Prime Video delivers an entertainment destination unlike any other—fast, reliable, personal, effortless, and delightful.
 
 Tools Used :
-Power BI
+Power BI,
 Power Query
 
 
